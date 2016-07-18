@@ -8,14 +8,18 @@ A curated list of Xcode plugins and themes.
 	- [Plugins](#plugins)
     	- [XAlign](#xalign)
     	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
-
+		- [MLAutoReplace](#MLAutoReplace)
 # Xcode 
+
 ## Plugins
-### XAlign
+
+#### XAlign
 * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
 
 #### BBUncrustifyPlugin-Xcode
 * [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
+
+#### MLAutoReplace
 * [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
 * [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier. 
