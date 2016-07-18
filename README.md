@@ -77,8 +77,10 @@ A curated list of Xcode plugins and themes.
 
 ![BBUDebuggerTuckAway](/Resources/BBUDebuggerTuckAway.gif)
 
-
 * [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`. 
+
+![AdjustFontSize](/Resources/AdjustFontSize.gif)
+
 * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin. 
 * [AutoHighlightSymbol](https://github.com/chiahsien/AutoHighlightSymbol) - A Xcode plugin to add highlight to the instances of selected symbol.
 * [Fastlane-Plugin](https://github.com/RishabhTayal/Fastlane-Plugin) - The awesome Fastlane tools brought into your Xcode.
