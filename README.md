@@ -7,7 +7,7 @@ A curated list of Xcode plugins and themes.
 - [XCode](#xcode)
 	- [Plugins](#plugins)
     	- [XAlign](#xalign)
-    	- [BBUncrustifyPlugin-Xcode](#BBUncrustifyPlugin-Xcode)
+    	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
 
 # Xcode 
 ## Plugins
