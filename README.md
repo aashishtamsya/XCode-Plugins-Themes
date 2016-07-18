@@ -5,9 +5,9 @@ A curated list of Xcode plugins and themes.
 ### Content
 
 - [Plugins](#plugins)
-    	- [XAlign](#xalign)
-    	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
-		- [MLAutoReplace](#MLAutoReplace)
+	- [XAlign](#xalign)
+	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
+	- [MLAutoReplace](#MLAutoReplace)
 
 ## Plugins
 
