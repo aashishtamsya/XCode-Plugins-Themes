@@ -74,6 +74,10 @@ A curated list of Xcode plugins and themes.
 ![Backlight](/Resources/Backlight.png)
 
 * [BBUDebuggerTuckAway](https://github.com/neonichu/BBUDebuggerTuckAway) - Xcode plugin for auto-hiding the debugger once you start typing in the source code editor. 
+
+![BBUDebuggerTuckAway](/Resources/BBUDebuggerTuckAway.gif)
+
+
 * [AdjustFontSize](https://github.com/zats/AdjustFontSize-Xcode-Plugin) - Instant font size adjustment with `⌘ +` / `⌘ -`. 
 * [XCActionBar](https://github.com/pdcgomes/XCActionBar) - "Alfred for Xcode" plugin. 
 * [AutoHighlightSymbol](https://github.com/chiahsien/AutoHighlightSymbol) - A Xcode plugin to add highlight to the instances of selected symbol.
