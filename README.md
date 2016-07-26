@@ -32,25 +32,31 @@ A curated list of Xcode plugins and themes I use.
 
 * [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
 
-![XAlign](/Resources/XAlign.png)
+![XAlign](/Resources/XAlign.gif)
 
 ### MLAutoReplace
 
 * [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
 
-![MLAutoReplace](/Resources/MLAutoReplace.png)
+![MLAutoReplace](/Resources/MLAutoReplace.gif)
 
 ### Peckham
 
 * [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
 
-![Peckham](/Resources/Peckham.png)
+![Peckham](/Resources/Peckham.gif)
 
 ### VVDocumenter-Xcode
 
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier. 
 
-![VVDocumenter-Xcode](/Resources/VVDocumenter-Xcode.png)
+For Objective-C
+
+![VVDocumenter-Xcode Objective C](/Resources/VVDocumenter-Xcode1.gif)
+
+Available for Swift too.
+
+![VVDocumenter-Xcode Swift](/Resources/VVDocumenter-Xcode2.gif)
 
 
 ### CleanHeaders-Xcode
@@ -63,13 +69,13 @@ A curated list of Xcode plugins and themes I use.
 
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
 
-![CleanClosureXcode](/Resources/CleanClosureXcode.png)
+![CleanClosureXcode](/Resources/CleanClosureXcode.gif)
 
 ### xTextHandler
 
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode 8 Source Editor Extension Toolset
 
-![xTextHandler](/Resources/xTextHandler.png)
+![xTextHandler](/Resources/xTextHandler.gif)
 
 ### Refactorator
 
@@ -81,7 +87,7 @@ A curated list of Xcode plugins and themes I use.
 
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
 
-![Swimat](/Resources/Swimat.png)
+![Swimat](/Resources/Swimat.gif)
 
 ### HOStringSense-for-Xcode
 
