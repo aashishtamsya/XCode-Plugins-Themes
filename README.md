@@ -1,6 +1,10 @@
 #List of useful Xcode Plugin
+<<<<<<< HEAD
 
 A curated list of Xcode plugins and themes.
+=======
+A curated list of Xcode plugins and themes I use.
+>>>>>>> 35543474cc097dc2ebd0ff09ef8a99197c9835cf
 
 
 # Content
@@ -123,5 +127,11 @@ A curated list of Xcode plugins and themes.
 ### Xcode themes list
 
 * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
+<<<<<<< HEAD
 
  
+=======
+* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
+* [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
+ 
+>>>>>>> 35543474cc097dc2ebd0ff09ef8a99197c9835cf
