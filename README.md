@@ -1,26 +1,21 @@
 #List of useful Xcode Plugin
-<<<<<<< HEAD
 
-A curated list of Xcode plugins and themes.
-=======
 A curated list of Xcode plugins and themes I use.
->>>>>>> 35543474cc097dc2ebd0ff09ef8a99197c9835cf
 
-
-# Content
+## Content
 
 - [Plugins](#plugins)
 	- [XAlign](#xalign)
 	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
 	- [MLAutoReplace](#mlautoreplace)	
-- [Themes]() 
+- [Themes](#themes) 
 	- [Solarized Dark for Xcode](#solarized-dark-for-xcode) 
 	- [WWDC2016 Xcode Color Scheme](#wwdc2016-xcode-color-scheme) 
 	- [Dracula Theme](#dracula-theme) 
 	- [Xcode themes list](#xcode-themes-list) 
 	
 	
-# Plugins
+## Plugins
 
 * [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 
@@ -104,7 +99,7 @@ A curated list of Xcode plugins and themes I use.
 * [SYXcodeIconVersion](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large_orange_diamond:
 
 
-# Themes
+## Themes
 
 ### Solarized Dark for Xcode
 
@@ -127,11 +122,4 @@ A curated list of Xcode plugins and themes I use.
 ### Xcode themes list
 
 * [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
-<<<<<<< HEAD
 
- 
-=======
-* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
-* [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
- 
->>>>>>> 35543474cc097dc2ebd0ff09ef8a99197c9835cf
