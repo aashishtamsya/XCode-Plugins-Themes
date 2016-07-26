@@ -106,13 +106,19 @@ A curated list of Xcode plugins and themes.
 
 * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
 
+![Solarized Dark for Xcode](/Resources/Solarized-Dark-for-Xcode.png)
+
 ### WWDC2016 Xcode Color Scheme
 
 * [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
+![WWDC2016 Xcode Color Scheme](/Resources/WWDC2016-Xcode-Color-Scheme.png)
+
 ### Dracula Theme
 
-* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
+* [Dracula Theme](https://github.com/dracula/dracula-theme) - A dark theme for Xcode.
+
+![Dracula Theme](/Resources/Dracula-Theme.png)
 
 ### Xcode themes list
 
