@@ -93,13 +93,13 @@ Available for Swift too.
 
 * [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
 
-![]()
+![](/Resources/HOStringSense-for-Xcode.gif)
 
 ### AutoIndentWithSave
 
 * [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 
-![]()
+![AutoIndentWithSave](/Resources/AutoIndentWithSave.jpg)
 
 ## Images
 * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
