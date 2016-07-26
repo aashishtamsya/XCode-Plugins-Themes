@@ -1,30 +1,41 @@
 #List of useful Xcode Plugin
+
 A curated list of Xcode plugins and themes.
 
 
-### Content
+# Content
 
 - [Plugins](#plugins)
 	- [XAlign](#xalign)
 	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
-	- [MLAutoReplace](#mlautoreplace)
+	- [MLAutoReplace](#mlautoreplace)	
+- [Themes]() 
+	- [Solarized Dark for Xcode](#solarized-dark-for-xcode) 
+	- [WWDC2016 Xcode Color Scheme](#wwdc2016-xcode-color-scheme) 
+	- [Dracula Theme](#dracula-theme) 
+	- [Xcode themes list](#xcode-themes-list) 
+	
+	
+# Plugins
 
-## Plugins
+* [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 
-#### XAlign
-* [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
 
-#### BBUncrustifyPlugin-Xcode
+### BBUncrustifyPlugin-Xcode
 * [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
 
-#### MLAutoReplace
+
+### XAlign
+* [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
+
+
+### MLAutoReplace
 * [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
 * [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier. 
 * [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
 * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode 8 Source Editor Extension Toolset
-* [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 * [Refactorator](https://github.com/johnno1962/Refactorator) - SourceKit Xcode Plugin that Refactors Swift :large_orange_diamond:
 * [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
 * [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
@@ -89,9 +100,22 @@ A curated list of Xcode plugins and themes.
 * [SYXcodeIconVersion](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large_orange_diamond:
 
 
-## Themes
-* [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
-* [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
-* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
+# Themes
+
+### Solarized Dark for Xcode
+
 * [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
+
+### WWDC2016 Xcode Color Scheme
+
+* [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
+
+### Dracula Theme
+
+* [Dracula Theme](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
+
+### Xcode themes list
+
+* [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
+
  
