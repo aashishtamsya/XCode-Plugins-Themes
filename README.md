@@ -5,9 +5,12 @@ A curated list of Xcode plugins and themes I use.
 ## Content
 
 - [Plugins](#plugins)
-	- [XAlign](#xalign)
-	- [BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
-	- [MLAutoReplace](#mlautoreplace)	
+	-	[Editing & Formating Plugins](#editing-&-formating-plugins)
+		-	[BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
+		-	[XAlign](#xalign)
+		-	[MLAutoReplace](#mlautoreplace)
+		-	[BBUncrustifyPlugin-Xcode](#bbuncrustifyplugin-xcode)
+		-	[MLAutoReplace](#mlautoreplace)	
 - [Themes](#themes) 
 	- [Solarized Dark for Xcode](#solarized-dark-for-xcode) 
 	- [WWDC2016 Xcode Color Scheme](#wwdc2016-xcode-color-scheme) 
@@ -15,31 +18,84 @@ A curated list of Xcode plugins and themes I use.
 	- [Xcode themes list](#xcode-themes-list) 
 	
 	
-## Plugins
+# Plugins
+
+## Editing & Formating Plugins
+
+### BBUncrustifyPlugin-Xcode
+
+* [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
+
+![BBUncrustifyPlugin-Xcode](/Resources/BBUncrustifyPlugin-Xcode.png)
+
+### XAlign
+
+* [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
+
+![XAlign](/Resources/XAlign.png)
+
+### MLAutoReplace
+
+* [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
+
+![MLAutoReplace](/Resources/MLAutoReplace.png)
+
+### Peckham
+
+* [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
+
+![Peckham](/Resources/Peckham.png)
+
+### VVDocumenter-Xcode
+
+* [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier. 
+
+![VVDocumenter-Xcode](/Resources/VVDocumenter-Xcode.png)
+
+
+### CleanHeaders-Xcode
+
+* [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
+
+![CleanHeaders-Xcode](/Resources/CleanHeaders-Xcode.png)
+
+### CleanClosureXcode
+
+* [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
+
+![CleanClosureXcode](/Resources/CleanClosureXcode.png)
+
+### xTextHandler
+
+* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode 8 Source Editor Extension Toolset
+
+![xTextHandler](/Resources/xTextHandler.png)
+
+### Refactorator
+
+* [Refactorator](https://github.com/johnno1962/Refactorator) - SourceKit Xcode Plugin that Refactors Swift :large_orange_diamond:
+
+![Refactorator](/Resources/Refactorator.png)
+
+### Swimat
+
+* [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
+
+![Swimat](/Resources/Swimat.png)
+
+### HOStringSense-for-Xcode
+
+* [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
+
+![]()
+
+### AutoIndentWithSave
 
 * [AutoIndentWithSave](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 
+![]()
 
-### BBUncrustifyPlugin-Xcode
-* [BBUncrustifyPlugin-Xcode](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
-
-
-### XAlign
-* [XAlign](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
-
-
-### MLAutoReplace
-* [MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin, Re-Intent, make you write code more quickly.
-* [Peckham](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.
-* [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier. 
-* [CleanHeaders-Xcode](https://github.com/insanoid/CleanHeaders-Xcode) - A simple iSort like header sorting and duplicate removal plugin for Xcode, makes your headers look more organized.
-* [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
-* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode 8 Source Editor Extension Toolset
-* [Refactorator](https://github.com/johnno1962/Refactorator) - SourceKit Xcode Plugin that Refactors Swift :large_orange_diamond:
-* [Swimat](https://github.com/Jintin/Swimat) - An Xcode formatter plug-in to format your swift code.
-* [HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
-
-### Images
+## Images
 * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
 * [RTImageAssets](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
 
@@ -99,7 +155,7 @@ A curated list of Xcode plugins and themes I use.
 * [SYXcodeIconVersion](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon :large_orange_diamond:
 
 
-## Themes
+# Themes
 
 ### Solarized Dark for Xcode
 
