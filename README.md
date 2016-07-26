@@ -1,5 +1,5 @@
 #List of useful Xcode Plugin
-A curated list of Xcode plugins and themes.
+A curated list of Xcode plugins and themes I use.
 
 
 ### Content
