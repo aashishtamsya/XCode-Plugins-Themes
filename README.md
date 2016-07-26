@@ -102,8 +102,18 @@ Available for Swift too.
 ![AutoIndentWithSave](/Resources/AutoIndentWithSave.jpg)
 
 ## Images
+
+### KSImageNamed-Xcode
+
 * [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
+
+![KSImageNamed-Xcode](/Resources/KSImageNamed-Xcode.gif)
+
+### RTImageAssets
+
 * [RTImageAssets](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
+
+![RTImageAssets](/Resources/RTImageAssets.gif)
 
 ### Color
 * [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
